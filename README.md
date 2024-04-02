@@ -302,4 +302,6 @@ palantir/tslint
 
 [badges/shields/pull/9474](https://github.com/badges/shields/issues/9474)
 
+[metatron-app/metatron-discovery/issues/2405](https://github.com/metatron-app/metatron-discovery/issues/2405)
+
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
